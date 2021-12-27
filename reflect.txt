@@ -1,0 +1,9 @@
+==================================================
+Project - Milestone 3
+==================================================
+Name    : Diego Bravo Torres
+ID      : 138350202
+Email   : dbravo-torres@myseneca.ca
+Section : ZAAL
+
+I found this last milestone particularly challenging due to the complexity of the assembly line and the project itself, I think it was definitely a good opportunity to improve my coding skills and certainly a good practice before the exam. I'm looking forward to start using Java next semester and to keep learning all the skills needed to succeed in the job market. This OOP345 course really made me think that programming is not for everybody and that you need patience, discipline and to be constant if you want to build a career as a programmer. At the same time, I'm super thankful that I have the opportunity to be in Canada and studying at Seneca, I couldn't be more excited to be about to start my last semester of  the program.
